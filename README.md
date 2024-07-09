@@ -1,5 +1,3 @@
-# Ujian Akhir Semester Pengolahan Citra
-
 | Nama  |  Nim | Kelas |
 | ------------- | ------------- |------------- |
 | Mohammad Hapiyansyah  | 312210243 | TI 22 A2 |
@@ -53,8 +51,23 @@ Aplikasi ini memungkinkan pengguna untuk mengunggah gambar, memilih jumlah clust
     ```bash
     pip install streamlit scikit-learn opencv-python pillow scipy
     ```
+
 4. **Jalankan aplikasi Streamlit dengan perintah berikut:**
     ```bash
     streamlit run app.py
     ```
 5. **Aplikasi Streamlit akan terbuka di browser Anda. Anda dapat mengunggah gambar, memilih jumlah cluster, dan melihat hasil segmentasi serta warna-warna yang ada beserta persentase.**
+
+### Tampilan Aplikasi
+
+**Tampilan Halaman**
+![halaman](pict/halaman.png)
+
+**Tampilan Gambar Asli**
+!
+
+**Tampilan Gambar Tersegmentasi**
+!
+
+**Tampilan Persentase Warna**
+!
