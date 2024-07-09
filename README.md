@@ -42,7 +42,13 @@ Aplikasi ini memungkinkan pengguna untuk mengunggah gambar, memilih jumlah clust
 
 ### Langkah-Langkah Menjalankan Aplikasi
 
-1. **Download file yang ada di dalam folder `UAS-PengolahanCitra` bernama `app.py`.**
+1. **Clone atau Download Repository ini, lalu buka terminal dan jalankan perintah berikut:**
+   ```bash
+   git clone https://github.com/Hapiyansyah/UAS-PengolahanCitra.git
+   ```
+   ```
+   cd UAS-PengolahanCitra
+   ```
 3. **Instal dependensi yang dibutuhkan dengan menjalankan perintah berikut di terminal:**
     ```bash
     pip install streamlit scikit-learn opencv-python pillow scipy
