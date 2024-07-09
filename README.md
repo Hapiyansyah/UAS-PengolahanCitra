@@ -60,14 +60,14 @@ Aplikasi ini memungkinkan pengguna untuk mengunggah gambar, memilih jumlah clust
 
 ### Tampilan Aplikasi
 
-**Tampilan Halaman**
-![halaman](pict/halaman.png)
+1. **Tampilan Halaman**
+![halaman](UASPengolahanCitra/pict/halaman.png)
 
-**Tampilan Gambar Asli**
-!
+2. **Tampilan Gambar Asli**
+![pict-asli](UASPengolahanCitra/pict/pict-asli.png)
 
-**Tampilan Gambar Tersegmentasi**
-!
+3. **Tampilan Gambar Tersegmentasi**
+![pict-segmen](UASPengolahanCitra/pict/pict-segmen.png)
 
-**Tampilan Persentase Warna**
-!
+4. **Tampilan Persentase Warna**
+![persentase](UASPengolahanCitra/pict/persentase.png)
