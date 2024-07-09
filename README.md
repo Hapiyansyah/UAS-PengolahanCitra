@@ -3,13 +3,9 @@
 | Nama  |  Nim | Kelas |
 | ------------- | ------------- |------------- |
 | Mohammad Hapiyansyah  | 312210243 | TI 22 A2 |
-| Raja Heppyanto  | 312210235 | TI 22 A2 |
 | Mohammad Ryamizar Ryopa Sakti  | 312210185 | TI 22 A2 |
 
 ## Penjelasan Proyek Segmentasi Gambar Menggunakan K-Means dan Streamlit
-
-### Tujuan Proyek
-Proyek ini bertujuan untuk melakukan segmentasi gambar digital menggunakan algoritma K-Means dan menampilkan hasilnya dalam sebuah antarmuka web yang dibuat dengan Streamlit. Selain itu, aplikasi ini juga akan menampilkan warna-warna yang terdapat dalam gambar yang telah disegmentasi, beserta persentase kemunculannya.
 
 ### Deskripsi Proyek
 Aplikasi ini memungkinkan pengguna untuk mengunggah gambar, memilih jumlah cluster untuk segmentasi, dan kemudian melihat hasil segmentasi serta persentase warna yang ada pada gambar. Warna-warna tersebut akan dikenali dan ditampilkan dalam bentuk kotak warna beserta nama warna dan persentase kemunculannya.
@@ -55,4 +51,4 @@ Aplikasi ini memungkinkan pengguna untuk mengunggah gambar, memilih jumlah clust
     ```bash
     streamlit run app.py
     ```
-5. **Aplikasi Streamlit akan terbuka di browser Anda. Anda dapat mengunggah gambar, memilih jumlah cluster, dan melihat hasil segmentasi serta warna-warna yang ada beserta persent
+5. **Aplikasi Streamlit akan terbuka di browser Anda. Anda dapat mengunggah gambar, memilih jumlah cluster, dan melihat hasil segmentasi serta warna-warna yang ada beserta persentase.**
