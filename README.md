@@ -6,7 +6,7 @@
 
 Laporan UAS Pengolahan Citra (PDF)
 
-klik disini -> ![Laporan](https://github.com/Hapiyansyah/UAS-PengolahanCitra/raw/main/Laporan%20Pengolahan%20Citra.pdf
+klik disini -> ![Laporan](https://github.com/Hapiyansyah/UAS-PengolahanCitra/raw/main/Laporan%20Pengolahan%20Citra.pdf)
 
 ### Langkah-Langkah Menjalankan Aplikasi
 
