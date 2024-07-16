@@ -4,9 +4,13 @@
 | Mohammad Ryamizar Ryopa Sakti  | 312210185 | TI 22 A2 |
 | Raja Heppyanto  | 312210235 | TI 22 A2 |
 
-### Laporan UAS Pengolahan Citra (PDF)
+### Laporan
 
 klik disini -> [Laporan](https://github.com/Hapiyansyah/UAS-PengolahanCitra/raw/main/Laporan%20Pengolahan%20Citra.pdf)
+
+### Paper
+
+klik disini -> [paper](https://github.com/Febriyaninurhida123/UAS_PengolahanCitra/raw/main/csit%20(2).docx)
 
 ### Langkah-Langkah Menjalankan Aplikasi
 
