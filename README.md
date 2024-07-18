@@ -1,10 +1,12 @@
+# Proyek UTS dan UAS Pengolahan Citra
+
 | Nama  |  Nim | Kelas |
 | ------------- | ------------- |------------- |
 | Mohammad Hapiyansyah  | 312210243 | TI 22 A2 |
 | Mohammad Ryamizar Ryopa Sakti  | 312210185 | TI 22 A2 |
 | Raja Heppyanto  | 312210235 | TI 22 A2 |
 
-# UTS Pengolahan Citra
+## UTS Pengolahan Citra
 
 Aplikasi sederhana ini menggunakan Streamlit, OpenCV, NumPy, dan Matplotlib untuk memanipulasi gambar. Dengan aplikasi ini, Anda dapat melakukan berbagai operasi pada gambar seperti mengubahnya ke mode HSV, menghitung histogram, menyesuaikan kecerahan dan kontras, serta mendeteksi kontur pada gambar.
 
@@ -32,7 +34,9 @@ Aplikasi sederhana ini menggunakan Streamlit, OpenCV, NumPy, dan Matplotlib untu
 
 5. Aplikasi akan berjalan dan akan terbuka di browser. Anda dapat mengunggah gambar dengan mengklik tombol "Upload Image". Setelah gambar diunggah, Anda dapat melihat gambar asli, gambar dalam mode HSV, histogram gambar, gambar yang disesuaikan brightness dan contrast-nya, serta gambar dengan kontur yang ditemukan.
 
-# UAS Pengolahan Citra
+## UAS Pengolahan Citra
+
+Aplikasi ini memungkinkan pengguna untuk melakukan segmentasi gambar digital menggunakan algoritma K-Means dan menampilkan hasilnya dalam sebuah antarmuka web yang dibuat dengan Streamlit. Selain itu, aplikasi ini juga akan menampilkan warna-warna yang terdapat dalam gambar yang telah disegmentasi, beserta persentase kemunculannya.
 
 ### Laporan
 
