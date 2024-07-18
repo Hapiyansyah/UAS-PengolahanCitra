@@ -4,6 +4,36 @@
 | Mohammad Ryamizar Ryopa Sakti  | 312210185 | TI 22 A2 |
 | Raja Heppyanto  | 312210235 | TI 22 A2 |
 
+# UTS Pengolahan Citra
+
+Aplikasi sederhana ini menggunakan Streamlit, OpenCV, NumPy, dan Matplotlib untuk memanipulasi gambar. Dengan aplikasi ini, Anda dapat melakukan berbagai operasi pada gambar seperti mengubahnya ke mode HSV, menghitung histogram, menyesuaikan kecerahan dan kontras, serta mendeteksi kontur pada gambar.
+
+### Langkah-langkah menjalankan aplikasi
+
+1. Clone repositori ini ke lokal Anda.
+   ```shell
+   https://github.com/Hapiyansyah/UAS-PengolahanCitra.git
+   ```
+
+2. Masuk ke direktori proyek.
+   ```shell
+   cd UAS-PengolahanCitra
+   ```
+
+3. Instal semua dependensi yang diperlukan.
+   ```shell
+   pip install streamlit opencv-python matplotlib numpy
+   ```
+
+4. Jalankan aplikasi Streamlit.
+   ```shell
+   streamlit run main.py
+   ```
+
+5. Aplikasi akan berjalan dan akan terbuka di browser. Anda dapat mengunggah gambar dengan mengklik tombol "Upload Image". Setelah gambar diunggah, Anda dapat melihat gambar asli, gambar dalam mode HSV, histogram gambar, gambar yang disesuaikan brightness dan contrast-nya, serta gambar dengan kontur yang ditemukan.
+
+# UAS Pengolahan Citra
+
 ### Laporan
 
 klik disini -> [Laporan](https://github.com/Hapiyansyah/UAS-PengolahanCitra/raw/main/Laporan%20Pengolahan%20Citra.pdf)
